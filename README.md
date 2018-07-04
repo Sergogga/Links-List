@@ -1,6 +1,7 @@
 # SQL Links
 ## SSAS
 [Chris Webb's Online Courses](https://projectbotticelli.com/?pk_campaign=chriswebbblog)
+
 [Chris Webb's BI Blog](https://blog.crossjoin.co.uk/)
 # Python Links
 ## Interesting Blogs:
